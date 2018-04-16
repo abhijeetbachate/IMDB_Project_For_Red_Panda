@@ -65,7 +65,21 @@ public class Library extends TestBase {
 				System.out.println(e);
 			}
 		}
+		
+	}
+	public static void fetch_the_data_from_DB()
+	{
+		String sql = "Select * from IMDB_Movie_Data";
 
+		try {
+			pst = con.prepareStatement(sql);
+			
+
+			pst.execute();
+			System.out.println("Query Executed Successfully");
+		} catch (Exception e) {
+			System.out.println(e);
+		}
 	}
 
 }

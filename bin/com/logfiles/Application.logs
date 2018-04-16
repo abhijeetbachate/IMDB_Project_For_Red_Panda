@@ -1,7 +1,8 @@
-| TestBase| | OpenBrowser | | 39 | 16/04/2018 01:38:28 | devpinoyLogger | Browser Choosen is mozilla
-| TestBase| | OpenBrowser | | 52 | 16/04/2018 01:38:40 | devpinoyLogger | Firefox browser launched..
-| TestBase| | OpenBrowser | | 56 | 16/04/2018 01:38:53 | devpinoyLogger | URL Launched..
-| TestBase| | OpenBrowser | | 58 | 16/04/2018 01:38:54 | devpinoyLogger | Browser Maximized.
-| TestBase| | OpenBrowser | | 60 | 16/04/2018 01:38:54 | devpinoyLogger | Deleted all cookies
-| TestBase| | OpenBrowser | | 62 | 16/04/2018 01:38:54 | devpinoyLogger | Implicit Wait of 10 Seconds is applied.
-| TestBase| | CloseBrowser | | 67 | 16/04/2018 01:38:56 | devpinoyLogger | Driver Instance is Killed and Browser is Closed.
+| TestBase| | OpenBrowser | | 39 | 16/04/2018 01:42:59 | devpinoyLogger | Browser Choosen is mozilla
+| TestBase| | OpenBrowser | | 52 | 16/04/2018 01:43:06 | devpinoyLogger | Firefox browser launched..
+| TestBase| | OpenBrowser | | 56 | 16/04/2018 01:43:16 | devpinoyLogger | URL Launched..
+| TestBase| | OpenBrowser | | 58 | 16/04/2018 01:43:17 | devpinoyLogger | Browser Maximized.
+| TestBase| | OpenBrowser | | 60 | 16/04/2018 01:43:17 | devpinoyLogger | Deleted all cookies
+| TestBase| | OpenBrowser | | 62 | 16/04/2018 01:43:17 | devpinoyLogger | Implicit Wait of 10 Seconds is applied.
+| Library| | naviagate_to_top_rated_indian_movies | | 33 | 16/04/2018 01:43:18 | devpinoyLogger | Navigated to Top Rated Indian Movies Page
+| Library| | naviagate_to_top_rated_indian_movies | | 35 | 16/04/2018 01:43:30 | devpinoyLogger | Implicit Wait of 20 Seconds is applied in fetchmoviedetails method.

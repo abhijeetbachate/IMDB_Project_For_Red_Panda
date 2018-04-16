@@ -10,6 +10,7 @@ public class TestCaseExecutor extends Library {
 	public void naviagtetodesiredLink() {
 		dbconnection();
 		naviagate_to_top_rated_indian_movies();
+		fetch_the_data_from_DB();
 	}
 	
 }
